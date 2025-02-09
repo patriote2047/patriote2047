@@ -60,6 +60,5 @@ En résumé, nous fournissons les outils nécessaires pour transformer vos idée
 Vous souhaitez rejoindre notre communauté et contribuer à l'avenir de l'IA ? Voici comment procéder :
 
 1. **Clonez le dépôt** :
-   ```bash
-  https://github.com/patriote2047/codestral-chat-dev.git
+ git clone https://github.com/patriote2047/codestral-chat-dev.git
 
