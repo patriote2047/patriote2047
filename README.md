@@ -2,7 +2,7 @@
 
 **Réunir les codeurs français pour révolutionner l'utilisation de l'IA**
 
-![NextGen AI Logo](https://via.placeholder.com/150) *(Ajoutez votre logo ici)*
+![NextGen AI Logo](logo.png) *(Ajoutez votre logo ici)*
 
 Bienvenue dans le projet **Codyman & NextGen AI**, où nous visons à rassembler les développeurs français passionnés par l'intelligence artificielle (IA). Si vous êtes intéressé(e) par des projets innovants qui transforment la manière dont l'IA est utilisée, vous êtes au bon endroit !
 
