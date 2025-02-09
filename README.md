@@ -61,4 +61,4 @@ Vous souhaitez rejoindre notre communauté et contribuer à l'avenir de l'IA ? V
 
 1. **Clonez le dépôt** :
    ```bash
-   [git clone https://github.com/nextgen-ai/codyman.git](https://github.com/patriote2047/codestral-chat-dev.git)
+  https://github.com/patriote2047/codestral-chat-dev.git
