@@ -62,3 +62,5 @@ Vous souhaitez rejoindre notre communauté et contribuer à l'avenir de l'IA ? V
 1. **Clonez le dépôt** :
  git clone https://github.com/patriote2047/codestral-chat-dev.git
 
+** PS : Projet Futur, Creer l'AI qui sera sur Tous les Serveurs du Monde avec nos Services de controle et de surveillance par AI (Assistant de l'Assistant) **
+
